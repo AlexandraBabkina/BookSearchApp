@@ -23,7 +23,7 @@ namespace Praktika
             client = new HttpClient();
             client.DefaultRequestHeaders.Add("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36");
 
-            this.Text = "📚 Поиск книг (Open Library)";
+            this.Text = "📚 📚 BookSearch";
             this.Size = new Size(700, 550);
             this.StartPosition = FormStartPosition.CenterScreen;
 
