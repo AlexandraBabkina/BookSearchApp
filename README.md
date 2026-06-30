@@ -1,3 +1,13 @@
-# BookSearchApp - поиск книг через Open Library API
-## Как запустить: откройте в Visual Studio и нажмите F5
-### Стек: C#, WinForms, Open Library API
+# 📚 BookSearchApp
+
+Приложение для поиска книг через Open Library API
+
+## 🚀 Функционал
+- Поиск книг по названию или автору
+- Отображение списка найденных книг
+- Просмотр детальной информации о книге
+
+## 🛠️ Технологии
+- C# + Windows Forms
+- Open Library API
+- Git + GitHub
