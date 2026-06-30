@@ -11,3 +11,8 @@
 - C# + Windows Forms
 - Open Library API
 - Git + GitHub
+
+## 🚀 Как запустить проект
+1. Откройте решение в Visual Studio
+2. Восстановите пакеты NuGet
+3. Нажмите F5 для запуска
