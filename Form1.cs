@@ -242,4 +242,4 @@ namespace Praktika
             public string Key { get; set; }
         }
     }
-}
+}// Этот проект создан для поиска книг через Open Library API
